@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: brown;
+    text-transform: uppercase;
+    margin: 5px 5px 5px 5px;
+}
+
+
+.messageForm {
+    display: flex;
+    flex-flow: column nowrap;
+}
