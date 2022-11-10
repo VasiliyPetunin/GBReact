@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: brown;
+  text-transform: uppercase;
+  margin: 5px 5px 5px 5px;
+}
+
+
+.messages {
+  width: 100%;
+  margin: 5px 0px 5px 0px;
+  min-height: 100px;
+  border: 1px solid blue;
+  display: flex;
+  flex-flow: row wrap;
+}
+  
+.messageList {
+  text-align: center;
+}
+  
+.message {
+  margin: 2px 0px 2px 0px;
+  padding: 0px 5px 0px 5px;
+  border: 1px solid black;
+  list-style-type: none;
+}
