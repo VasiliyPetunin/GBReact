@@ -1,0 +1,1 @@
+export const SET_CHECKBOX = 'SET_CHECKBOX'
