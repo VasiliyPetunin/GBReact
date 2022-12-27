@@ -1,0 +1,1 @@
+export const SET_FACTS = 'SET_FACTS'

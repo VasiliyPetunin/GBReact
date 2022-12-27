@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    color: brown;
+    text-transform: uppercase;
+    margin: 5px 5px 5px 5px;
+  }
+
+  .signUpFormHeader {
+    text-align: center;
+  }
